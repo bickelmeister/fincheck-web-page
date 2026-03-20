@@ -1,3 +1,9 @@
+---
+layout: page
+title: Datenschutz
+permalink: /datenschutz/
+---
+
 # Datenschutzerklärung – FinCheck
 
 **Letzte Aktualisierung:** März 2026

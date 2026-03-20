@@ -1,0 +1,10 @@
+title: FinCheck
+description: Deine private Finanz-App für Android
+baseurl: /fincheck-web-page
+url: https://bickelmeister.github.io
+theme: minima
+
+header_pages:
+  - index.md
+  - beta.md
+  - privacy-policy.md
