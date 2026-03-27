@@ -19,10 +19,10 @@ FinCheck ist eine einfache und private Finanz-App. Behalte den Überblick über 
       <a href="{{ site.baseurl }}/beta/">Jetzt testen</a>
     </div>
   </div>
-  <div style="border: 2px solid #999; border-radius: 12px; padding: 1.2rem 1.5rem; min-width: 180px; text-align: center; opacity: 0.7;">
+  <div style="border: 2px solid #34a853; border-radius: 12px; padding: 1.2rem 1.5rem; min-width: 180px; text-align: center; opacity: 0.7;">
     <div style="font-size: 2rem;">🍎</div>
     <div style="font-weight: bold; margin: 0.3rem 0;">iOS</div>
-    <div style="background: #34a853; color: white; border-radius: 20px; padding: 0.2rem 0.8rem; font-size: 0.85rem; display: inline-block;">In Prfung (bei Apple)</div>
+    <div style="background: #34a853; color: white; border-radius: 20px; padding: 0.2rem 0.8rem; font-size: 0.85rem; display: inline-block;">In Prüfung (bei Apple)</div>
   </div>
 </div>
 
