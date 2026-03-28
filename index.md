@@ -4,41 +4,76 @@ title: Home
 permalink: /
 ---
 
-## Was ist FinCheck?
+<div class="hero" markdown="0">
+  <h1>FinCheck</h1>
+  <p class="tagline">Deine private Finanz-App. Offline. Ohne Tracking. Ohne Cloud.</p>
+</div>
 
-FinCheck ist eine einfache und private Finanz-App. Behalte den Überblick über deine Einnahmen und Ausgaben - komplett offline, ohne Tracking und ohne Cloud.
+<div class="store-badges" markdown="0">
+  <a href="https://apps.apple.com/app/id6761257949">
+    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/de-de?size=250x83" alt="Laden im App Store">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=dev.bickelmeister.fincheck">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/de_badge_web_generic.png" alt="Jetzt bei Google Play" style="height: 70px; margin-top: -11px;">
+  </a>
+</div>
 
-### Plattformen
+<div class="app-preview" markdown="0">
+  <img src="{{ site.baseurl }}/assets/images/screenshot-ios.png" alt="FinCheck Screenshot">
+</div>
 
-<div style="display: flex; gap: 1.5rem; flex-wrap: wrap; margin: 1.5rem 0;">
-  <div style="border: 2px solid #34a853; border-radius: 12px; padding: 1.2rem 1.5rem; min-width: 180px; text-align: center;">
-    <div style="font-size: 2rem;">🤖</div>
-    <div style="font-weight: bold; margin: 0.3rem 0;">Android</div>
-    <div style="background: #34a853; color: white; border-radius: 20px; padding: 0.2rem 0.8rem; font-size: 0.85rem; display: inline-block;">Early Access</div>
-    <div style="margin-top: 0.5rem; font-size: 0.85rem;">
-      <a href="{{ site.baseurl }}/beta/">Jetzt testen</a>
-    </div>
+## Features
+
+<div class="features" markdown="0">
+  <div class="feature-card">
+    <div class="feature-icon">💰</div>
+    <div class="feature-title">Einnahmen & Ausgaben</div>
+    <div class="feature-desc">Transaktionen schnell und unkompliziert erfassen</div>
   </div>
-  <div style="border: 2px solid #34a853; border-radius: 12px; padding: 1.2rem 1.5rem; min-width: 180px; text-align: center; opacity: 0.7;">
-    <div style="font-size: 2rem;">🍎</div>
-    <div style="font-weight: bold; margin: 0.3rem 0;">iOS</div>
-    <div style="background: #34a853; color: white; border-radius: 20px; padding: 0.2rem 0.8rem; font-size: 0.85rem; display: inline-block;">In Prüfung (bei Apple)</div>
+  <div class="feature-card">
+    <div class="feature-icon">🏷️</div>
+    <div class="feature-title">Kategorien</div>
+    <div class="feature-desc">Eigene Kategorien mit Icons und Farben erstellen</div>
+  </div>
+  <div class="feature-card">
+    <div class="feature-icon">📊</div>
+    <div class="feature-title">Analysen & Diagramme</div>
+    <div class="feature-desc">Ausgaben nach Kategorie, Trends und Vergleiche</div>
+  </div>
+  <div class="feature-card">
+    <div class="feature-icon">🔁</div>
+    <div class="feature-title">Wiederkehrende Buchungen</div>
+    <div class="feature-desc">Miete, Gehalt & Co. automatisch eintragen lassen</div>
+  </div>
+  <div class="feature-card">
+    <div class="feature-icon">🧾</div>
+    <div class="feature-title">Steuerrelevanz</div>
+    <div class="feature-desc">Transaktionen für die Steuererklärung markieren</div>
+  </div>
+  <div class="feature-card">
+    <div class="feature-icon">📁</div>
+    <div class="feature-title">CSV Import/Export</div>
+    <div class="feature-desc">Deine Daten gehören dir — jederzeit exportieren</div>
+  </div>
+  <div class="feature-card">
+    <div class="feature-icon">🔒</div>
+    <div class="feature-title">Biometrische Sperre</div>
+    <div class="feature-desc">Face ID, Fingerabdruck oder PIN-Schutz</div>
+  </div>
+  <div class="feature-card">
+    <div class="feature-icon">🌙</div>
+    <div class="feature-title">Dark Mode</div>
+    <div class="feature-desc">Passt sich automatisch an dein Gerät an</div>
   </div>
 </div>
 
-### Features
+<div class="privacy-banner" markdown="0">
+  <div class="privacy-icon">🛡️</div>
+  <div><strong>100% privat.</strong> Alle Daten bleiben auf deinem Gerät. Keine Cloud, kein Tracking, keine Werbung.</div>
+</div>
 
-- **Einnahmen & Ausgaben erfassen** - Schnell und unkompliziert Transaktionen eintragen
-- **Kategorien** - Vordefinierte und eigene Kategorien mit Icons und Farben
-- **Analysen & Diagramme** - Ausgaben nach Kategorie, Trends, Einnahmen vs. Ausgaben
-- **Wiederkehrende Buchungen** - Miete, Gehalt & Co. automatisch eintragen lassen
-- **Steuerrelevanz** - Transaktionen für die Steuererklärung markieren
-- **CSV Import/Export** - Deine Daten gehören dir ([Format-Dokumentation]({{ site.baseurl }}/csv-format/))
-- **Biometrische Sperre** - Fingerabdruck oder PIN-Schutz
-- **Dark Mode & Dynamic Colors** - Passt sich deinem Gerät an
-
-### Jetzt Beta-Tester werden!
-
-FinCheck befindet sich aktuell in der **offenen Beta-Phase**. Hilf mit, die App besser zu machen!
-
-[**Mehr erfahren & mitmachen**]({{ site.baseurl }}/beta/)
+<div class="cta" markdown="0">
+  <h3>Verfügbar auf iOS und Android</h3>
+  <p>Lade FinCheck jetzt kostenlos herunter und behalte deine Finanzen im Griff.</p>
+  <a class="cta-button" href="https://apps.apple.com/app/id6761257949">Im App Store laden</a>
+</div>
