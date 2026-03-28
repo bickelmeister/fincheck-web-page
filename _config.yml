@@ -1,12 +1,11 @@
 title: FinCheck
-description: Deine private Finanz-App
+description: Deine private Finanz-App — offline, ohne Tracking, ohne Cloud.
 baseurl: /fincheck-web-page
 url: https://bickelmeister.github.io
 theme: minima
 
 header_pages:
   - index.md
-  - beta.md
   - releases.md
   - csv-format.md
   - privacy-policy.md
