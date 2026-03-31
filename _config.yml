@@ -6,6 +6,5 @@ theme: minima
 
 header_pages:
   - index.md
-  - releases.md
   - csv-format.md
   - privacy-policy.md
